@@ -1,8 +1,0 @@
-<img src="Champions.jpeg" alt="" 
-style="width:400px;height:250px;">
-</img>
-
-<button type="button"
-onclick="document.getElementById('demo') .innerHTML =Date()">
-CLick me to so you don't miss the game!</button>
-<p id="demo"></p>
